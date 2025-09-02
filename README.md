@@ -1,4 +1,4 @@
 # code-journey
 This is my first Git Repository. 
 <br>
-Author - Vivek Kumar Verma
+Author - Vivek (lpu)
